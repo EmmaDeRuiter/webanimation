@@ -6,7 +6,7 @@ Voor deze opdracht heb ik besloten om de cover van het American Way Magazine uit
 Ik heb gekozen voor dit kunstwerk, omdat ik het er heel simpel uit vond zien met toch een soort complexe bouw. Ook sprak het contrast tussen het zwart en wit met de kleuren mij aan. Het is gemaakt door Alexander Calder, deze artiest stond bekend voor zijn kinetische kunst en mobiles. Dat was ook gelijk waar is dit op vond lijken en daarmee begonnen al de eerste ideeën voor interactie te komen. 
 
 ## De animaties
-Veel van deze animaties zijn te combineren. Je kan tegelijk 'zwaaien', 'zwaartekracht', 'wat is dat' en 'de toets R' laten spelen. Ook zijn bijna al deze animaties gemaakt met gebruik van keyframes, met uitzondering van de hovers. De knoppen kunnen tegelijkertijd geactiveerd zijn doordat je de classes toggled en zo kan je ze dus bovenop elkaar laten afspelen.
+Veel van deze animaties zijn te combineren. Je kan tegelijk 'zwaaien', 'zwaartekracht', 'wat is dat' en 'de toets R' laten spelen. 
 
 ### Inladen
 Als de pagina zich laadt, komt het kunstwerk van bovenaf ingevlogen en de knoppen draaien terwijl ze in beeld komen. Ik wilde het gevoel meegeven alsof de mobile werd opgehangen aan het plafond.
@@ -33,6 +33,8 @@ In mijn product zijn meerdere hovers aanwezig:
 ## Responsive
 Het kunstwerk is in het middel van de pagina gecentreerd en daar blijft het door alle formaten heen. Het kunstwerk is vrij smal dus past precies in verschillende weergaven op verschillende apparaten. De knoppen blijven bovenin gecentreerd staan, alleen het kunstwerk beweegt uit beeld op de mobiele weergave. Zelf vond ik dit wel iets toevoegen, het geeft je het gevoel alsof het een echt object is. In principe ziet hij er op elk formaat dus hetzelfde uit, alleen de verhoudingen zijn net iets anders. 
 
+## Code
+Bijna al deze animaties gemaakt met gebruik van keyframes, met uitzondering van de hovers. De knoppen kunnen tegelijkertijd geactiveerd zijn doordat je de classes toggled en zo kan je ze dus bovenop elkaar laten afspelen. Veel van mijn animaties zijn dus te activeren door middel van het gebruik van javascript. Ik gebruik de acties 'click', 'mouseover' en 'keydown' in mijn animaties, deze zijn simpel maar werken erg effectief vooral omdat ik geen held ben ik het werken met javascript.
 
 ## Bronnen
 Tijdens het uitvoeren van deze opdracht heb ik veel gebruik gemaakt van de uitleg op https://developer.mozilla.org en ook heb ik veel gehaald van https://www.w3schools.com/. Ik had een probleem waar ik niet uitkwam en de oplossing had ik op dit forum gevonden https://stackoverflow.com/questions/2928688/how-to-hide-elements-without-having-them-take-space-on-the-page. Daarnaast heb ik vragen in de slack gesteld en heb daar hulp gekregen van mijn klasgenoten. 
