@@ -6,7 +6,7 @@ Voor deze opdracht heb ik besloten om de cover van het American Way Magazine uit
 Ik heb gekozen voor dit kunstwerk, omdat ik het er heel simpel uit vond zien met toch een soort complexe bouw. Ook sprak het contrast tussen het zwart en wit met de kleuren mij aan. Het is gemaakt door Alexander Calder, deze artiest stond bekend voor zijn kinetische kunst en mobiles. Dat was ook gelijk waar is dit op vond lijken en daarmee begonnen al de eerste ideeën voor interactie te komen. 
 
 ## De animaties
-Veel van deze animaties zijn te combineren. Je kan tegelijk 'zwaaien', 'zwaartekracht', 'wat is dat' en 'de toets R' laten spelen. Ook zijn bijna al deze animaties gemaakt met gebruik van keyframes, met uitzondering van de hovers.  
+Veel van deze animaties zijn te combineren. Je kan tegelijk 'zwaaien', 'zwaartekracht', 'wat is dat' en 'de toets R' laten spelen. Ook zijn bijna al deze animaties gemaakt met gebruik van keyframes, met uitzondering van de hovers. De knoppen kunnen tegelijkertijd geactiveerd zijn doordat je de classes toggled en zo kan je ze dus bovenop elkaar laten afspelen.
 
 ### Inladen
 Als de pagina zich laadt, komt het kunstwerk van bovenaf ingevlogen en de knoppen draaien terwijl ze in beeld komen. Ik wilde het gevoel meegeven alsof de mobile werd opgehangen aan het plafond.
